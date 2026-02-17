@@ -145,4 +145,3 @@ def main(): #main
         elif greeting == 3:
             break
     print("See you later...")
-main()
